@@ -1,0 +1,72 @@
+Contact Us Layout - HTML Structure and CSS Styling
+
+  Background
+    Possibly Image
+    Time:                                                    20 min
+
+  Outer-Container
+    Encases the main sections
+    Time:                                                     5 min
+
+  Top-Section
+    Banner
+      Banner-Left - First Title Part
+      Banner-Middle - Logo
+      Banner-Right - Second Title Part
+      Time:                                                  30 min
+    Navbar
+      Background - From School Color Palette
+      Topics
+        Font-Color: White
+        Home
+        Who we are
+        Classes
+        Our Teachers
+        Registration
+        Parent's Corner
+        Contact
+    Time:                                                    30 min
+
+  Rule
+
+  Contact-Section
+    Heading-Title: Contact Us
+    Color: School Color Palette
+    Rule
+    Contact-Left-Section
+      Image
+    Contact-Right-Section
+      Contact-Right-Top-Section
+        Contact-Right-Top-Left-Section
+          Sub-Heading: Have Questions?
+          Text-Area: Info
+          Sub-Heading: Want to Schedule an Interview?
+          Text-Area: Info
+        Contact-Right-Top-Right-Section
+          Card/Plaque: Quote and Author
+          Background: School Color Palette
+      Contact-Right-Bottom-Section
+        Contact-Right-Bottom-Left-Section
+          Input Fields:
+            Name, Email, Umbrella Chapter, etc.
+          Background: School Color Palette
+          Color: White
+        Contact-Right-Bottom-Right-Section
+          Text-Area Block: For Question
+          Send-Button
+            Background: School Color Palette
+            Color White
+    Time:                                                    60 min
+
+  Bottom-Section
+    Background: School Color Palette
+    Color: White
+    Bottom-Section-Left
+      Copyright
+    Bottom-Section-Right
+      Text: Interested in Teaching
+    Time:                                                    20 min
+
+  Padding Time:                                              60 min
+
+  Total Time:                                        3 hours 45 min
