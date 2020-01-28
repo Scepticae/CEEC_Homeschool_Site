@@ -1,0 +1,79 @@
+Classes Page - HTML Structure and CSS Styling
+  Background
+    Possibly Image
+    Time:                                                    20 min
+
+  Outer-Container
+    Encases the main sections
+    Time:                                                     5 min
+
+  Top-Section
+    Banner
+      Banner-Left - First Title Part
+      Banner-Middle - Logo
+      Banner-Right - Second Title Part
+      Time:                                                  30 min
+    Navbar
+      Background - From School Color Palette
+      Topics
+        Font-Color: White
+        Home
+        Who we are
+        Classes
+        Our Teachers
+        Registration
+        Parent's Corner
+        Contact
+      Time:                                                  30 min
+
+  Rule
+
+  Classes-Section
+    Classes-Left-Section
+      Heading-Title: Year to Year Classes
+      Color: School Color Palette
+      Rule
+      Classes-Left-Left-section
+        Image
+        Footnote: Info
+          Hyperlinks
+            Schedules
+            Descriptions
+      Classes-Left-Right-Section
+        Subjects:
+          Format:
+            Heading-Subject-Title
+              Subject Class - Teacher - Price
+              *For as many Subjects
+    Classes-Right-Section
+      Classes-Right-Top-Section
+        Registration-Button:
+          Background: School Color Palette
+          Color: White
+        Course, Description, and Calendar Buttons
+          Background: School Color Palette
+          Color: White
+          *As many as needed
+          Function: Link to PDF's
+      Classes-Right-Bottom-Section
+        Sub-Heading-Title: Need Help!
+        Rule
+        Text-Area
+          Contact Info
+        Contact-Button
+          Background: School Color Palette
+          Color: White
+  Time:                                                      120 min
+
+  Bottom-Section
+    Background: School Color Palette
+    Color: White
+    Bottom-Section-Left
+      Copyright
+    Bottom-Section-Right
+      Text: Interested in Teaching
+    Time:                                                    20 min
+
+Padding Time:                                                60 min
+
+Total Time:                                          4 hours 45 min
