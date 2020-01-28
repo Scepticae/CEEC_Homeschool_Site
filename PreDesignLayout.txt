@@ -1,0 +1,109 @@
+Home Page - HTML Structure and CSS Styling
+  Background
+    Possibly Image
+    Time:                                                    20 min
+
+  Outer-Container
+    Encases the main sections
+    Time:                                                     5 min
+
+  Top-Section
+    Banner
+      Banner-Left - First Title Part
+      Banner-Middle - Logo
+      Banner-Right - Second Title Part
+      Time:                                                  30 min
+    Navbar
+      Background - From School Color Palette
+      Topics
+        Font-Color: White
+        Home
+        Who we are
+        Classes
+        Our Teachers
+        Registration
+        Parent's Corner
+        Contact
+      Time:                                                  30 min
+
+  Rule
+
+  Section-Two
+    Section-Two-Left
+      Image-Carousel
+      Time:                                                  30 min
+    Section-Two-Right
+      Greeting
+        Heading:
+          Background: School Color Palette
+        Greeting-Text-Area
+          Text: School Color Palette
+          Background: White
+      Classes Button
+        Background: School Color Palette
+        Color-Gradient
+      Who We Are Button
+        Background: School Color Palette
+        Color-Gradient
+      Time:                                                  30 min
+
+  Section-Three
+    Section-Three-Left
+      Heading-Title: Upcoming Events
+      Rule
+      Scroll Text Area
+        Background: White
+        Font-Color: School Color Palette
+        Rule Between Each Event
+        Format:
+          Event, Day, Duration
+      Rule
+      Time:                                                  30 min
+    Vertical Rule
+    Section-Three-Middle
+      Heading-Title: Contact Us
+      Text Area:
+        Background: White
+        Font-Color: School Color Palette
+      Contact Us Button:
+        Background: School Color Palette
+        Font-Color: White
+      Text Area:
+        Background: White
+        Font-Color: School Color Palette
+        Hyperlink:
+          Contact Email
+          Color: School Color Palette
+      Time:                                                  30 min
+    Vertical Rule
+    Section-Three-Right
+      Heading-Title: Schedule and Events
+      Rule
+      Image
+      Class Schedule Button
+        Text: Year
+        Color: White
+        Background: School Color Palette
+      Course Description Button
+        Text: Year
+        Color: White
+        Background: School Color Palette
+      Image
+      Calendar Button
+        Text: Year Calendar
+        Color: White
+        Background: School Color Palette
+      Time:                                                  60 min
+
+  Bottom-Section
+    Background: School Color Palette
+    Color: White
+    Bottom-Section-Left
+      Copyright
+    Bottom-Section-Right
+      Text: Interested in Teaching
+    Time:                                                    20 min
+
+Time-Padding:                                                60 min
+
+Total Time:                                          5 hours 45 min
