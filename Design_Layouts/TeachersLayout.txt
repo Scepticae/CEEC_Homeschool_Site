@@ -1,6 +1,5 @@
 Teachers Page - HTML Structure and CSS Styling
 
-Classes Page - HTML Structure and CSS Styling
   Background
     Possibly Image
     Time:                                                    20 min

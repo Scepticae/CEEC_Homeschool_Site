@@ -1,0 +1,77 @@
+Registration Page - HTML Structure and CSS Styling
+
+  Background
+    Possibly Image
+    Time:                                                    20 min
+
+  Outer-Container
+    Encases the main sections
+    Time:                                                     5 min
+
+  Top-Section
+    Banner
+      Banner-Left - First Title Part
+      Banner-Middle - Logo
+      Banner-Right - Second Title Part
+      Time:                                                  30 min
+    Navbar
+      Background - From School Color Palette
+      Topics
+        Font-Color: White
+        Home
+        Who we are
+        Classes
+        Our Teachers
+        Registration
+        Parent's Corner
+        Contact
+      Time:                                                  30 min
+
+  Rule
+
+  Bottom-Section
+    Background: School Color Palette
+    Color: White
+    Bottom-Section-Left
+      Copyright
+    Bottom-Section-Right
+      Text: Interested in Teaching
+    Time:                                                    20 min
+
+  Registration-section
+    Heading-Title: Registration
+    Color: School Color Palette
+    Rule
+    Registration-Top-Section
+      Registration-Top-Left-Section
+        Image
+      Registration-Top-Right-Section
+        Registration-Top-Right-Top-section
+          Sub-Heading-Title: New Family Registration
+          Bullet Points: Ordered
+            Registration Instructions
+          Sub-Heading-Title: Returning Family Registration
+          Bullet Points: Ordered
+            Registration Instructions
+        Registration-Top-Right-Bottom-Section
+          Registration-Top-Right-Bottom-Left-Section
+            New Family Registration Button
+              Background: School Color Palette
+              Color: White
+          Registration-Top-Right-Bottom-Right-Section
+            Returning Family Registration Button
+              Background: School Color Palette
+              Color: White
+    Registration-Bottom-Section
+      Registration-Bottom-Left-Section
+        Image
+      Registration-Bottom-Right-Section
+        Heading-Title: Student Drivers
+        Color: School Color Palette
+        Text-Area: Student Driver Instructions
+        Bullet Points: Ordered
+  Time:                                                      60 min
+
+  Padding Time:                                              60 min
+
+  Total Time:                                        3 hours 45 min
