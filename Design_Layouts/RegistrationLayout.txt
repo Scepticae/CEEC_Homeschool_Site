@@ -25,18 +25,9 @@ Registration Page - HTML Structure and CSS Styling
         Registration
         Parent's Corner
         Contact
-      Time:                                                  30 min
+    Time:                                                    30 min
 
   Rule
-
-  Bottom-Section
-    Background: School Color Palette
-    Color: White
-    Bottom-Section-Left
-      Copyright
-    Bottom-Section-Right
-      Text: Interested in Teaching
-    Time:                                                    20 min
 
   Registration-section
     Heading-Title: Registration
@@ -70,7 +61,16 @@ Registration Page - HTML Structure and CSS Styling
         Color: School Color Palette
         Text-Area: Student Driver Instructions
         Bullet Points: Ordered
-  Time:                                                      60 min
+    Time:                                                    60 min
+
+  Bottom-Section
+    Background: School Color Palette
+    Color: White
+    Bottom-Section-Left
+      Copyright
+    Bottom-Section-Right
+      Text: Interested in Teaching
+    Time:                                                    20 min
 
   Padding Time:                                              60 min
 

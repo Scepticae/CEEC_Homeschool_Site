@@ -1,0 +1,84 @@
+Parents Corner Layout - HTML Structure and CSS Styling
+
+  Background
+    Possibly Image
+    Time:                                                    20 min
+
+  Outer-Container
+    Encases the main sections
+    Time:                                                     5 min
+
+  Top-Section
+    Banner
+      Banner-Left - First Title Part
+      Banner-Middle - Logo
+      Banner-Right - Second Title Part
+      Time:                                                  30 min
+    Navbar
+      Background - From School Color Palette
+      Topics
+        Font-Color: White
+        Home
+        Who we are
+        Classes
+        Our Teachers
+        Registration
+        Parent's Corner
+        Contact
+    Time:                                                    30 min
+
+  Rule
+
+  ParentsCorner-Section
+    Heading-Title: Parent's Corner
+    Rule
+    ParentsCorner-Left-Section
+      ParentsCorner-Left-Top-Section
+        ParentsCorner-Left-Top-Left-Section
+          Image/Icon: Weather
+        ParentsCorner-Left-Top-Right-Section
+          Sub-Heading:Weather Policy
+          Text-Area: Info
+      ParentsCorner-Left-Middle-Section
+        ParentsCorner-Left-Middle-Left-Section
+          Image/Icon: SMS
+        ParentsCorner-Left-Middle-Right-Section
+          Sub-Heading: Reminder
+          Text-Area: Info
+      ParentsCorner-Left-Bottom-Section
+        ParentsCorner-Left-Bottom-Left-Section
+          Image/Icon: Volunteer Broom
+        ParentsCorner-Left-Bottom-Right-Section
+          Sub-Heading: Volunteer Instructions
+          Text-Area: Info
+            Bullet Points: Unordered
+              Hyperlinks: Different Instructions
+    ParentsCorner-Right-Section
+      ParentsCorner-Right-Top-Section
+        Card:
+          Heading: Parent Directory
+          Color: School Color Palette
+          Background: School Color Palette
+          Text-Area: Info
+          Directory-Button
+            Background: School Color Palette
+            Color: TBD
+            Link: Parent Directory
+      ParentsCorner-Right-Bottom-Section
+        Logo: Volunteer Spot
+        Footnote: Info
+          Hyperlink: To site
+    Time:                                                    60 min
+
+  Bottom-Section
+    Background: School Color Palette
+    Color: White
+    Bottom-Section-Left
+      Copyright
+    Bottom-Section-Right
+      Text: Interested in Teaching
+    Time:                                                    20 min
+
+  Padding Time:                                              60 min
+
+  Total Time:                                        3 hours 45 min
