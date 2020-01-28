@@ -1,0 +1,114 @@
+Who We Are Page - HTML Structure and CSS Styling
+  Background
+    Possibly Image
+    Time:                                                    20 min
+
+  Outer-Container
+    Encases the main sections
+    Time:                                                     5 min
+
+  Top-Section
+    Banner
+      Banner-Left - First Title Part
+      Banner-Middle - Logo
+      Banner-Right - Second Title Part
+      Time:                                                  30 min
+    Navbar
+      Background - From School Color Palette
+      Topics
+        Font-Color: White
+        Home
+        Who we are
+        Classes
+        Our Teachers
+        Registration
+        Parent's Corner
+        Contact
+      Time:                                                  30 min
+
+  Rule
+
+  Who-Are-We-section
+    Heading-Title: Who We Are
+      Color: School Color Palette
+    Rule
+    Who-Section-Top
+      Image
+    Who-Section-Bottom
+      Who-Section-Bottom-Left
+        Sub-Heading-Title: Classes We Offer
+        Color: School Color Palette
+        Text-Areas
+          Bold Beginnings for Paragraphs
+      Vertical Rule
+      Who-Section-Right
+        Sub-Heading-Title: Who We Are
+        Color: School Color Palette
+        Text Area
+          Bold Beginning for Paragraph
+    Time:                                                    45 min
+
+  Activities-section
+    Activities-Left-Section
+      Activities-Left-Top-Section
+        Activities-Left-Top-Left-Section
+          Image
+        Activities-Left-Top-Right Section
+          Sub-Heading-Title: Student Activities
+          Style: Bold
+          Color: School Color Palette
+          Text-Area
+      Activities-Left-Bottom-Section
+        Activities-Left-Bottom-Left-Section
+          Sub-Heading-Title: School Clubs
+          Color: School Color Palette
+          Text-Area
+            Bullet Points Unordered
+        Activities-Left-Bottom-Right-Section
+          Image
+    Activities-Right-Section
+      Banner
+        Heading-Title: Working Together
+      Text-Area
+      Volunteers Button
+        Background: School Color Palette
+        Color: White
+    Time:                                                    60 min
+
+  Faith-Statement-Section
+    Faith-Left-Section
+      Heading-Title: Statement of Faith
+      Color: School Color Palette
+      Sub-Heading: We Believe and Teach the Following
+      Color: School Color Palette
+      Style: Italics
+      Text-Area
+        Paragraph
+        Bullet Points Ordered
+    Faith-Right-Section
+      Image
+    Time:                                                    30 min
+
+  Where-Section
+    Where-Left-Section
+      Heading-Title: Where We Meet
+      Paragraph: Directions
+      Contact Us Button
+        Background: School Color Palette
+        Color: White
+    Where-Right-Section
+      Google Maps with Location
+    Time:                                                    30 min
+
+  Bottom-Section
+    Background: School Color Palette
+    Color: White
+    Bottom-Section-Left
+      Copyright
+    Bottom-Section-Right
+      Text: Interested in Teaching
+    Time:                                                    20 min
+
+Padding Time:                                                60 min
+
+Total Time:                                          5 hours 30 min
