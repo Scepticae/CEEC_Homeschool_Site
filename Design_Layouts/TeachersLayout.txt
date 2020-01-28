@@ -1,0 +1,66 @@
+Teachers Page - HTML Structure and CSS Styling
+
+Classes Page - HTML Structure and CSS Styling
+  Background
+    Possibly Image
+    Time:                                                    20 min
+
+  Outer-Container
+    Encases the main sections
+    Time:                                                     5 min
+
+  Top-Section
+    Banner
+      Banner-Left - First Title Part
+      Banner-Middle - Logo
+      Banner-Right - Second Title Part
+      Time:                                                  30 min
+    Navbar
+      Background - From School Color Palette
+      Topics
+        Font-Color: White
+        Home
+        Who we are
+        Classes
+        Our Teachers
+        Registration
+        Parent's Corner
+        Contact
+      Time:                                                  30 min
+
+  Rule
+
+  Teachers-Section
+  Heading-Title: Our Teachers
+  Color: School Color Palette
+    Teachers-Left-section
+      Format:
+        Teachers-Left-Left-Section
+          Image: Teacher Image
+        Teachers-Left-Right-section
+          Sub-Heading: Name
+          Text-Area: Short Description
+          Link: Read More (maybe use card)
+    Vertical Rule
+    Teachers-Right-section
+      Format:
+        Teachers-Right-Left-Section
+          Image: Teacher Image
+        Teachers-Right-Right-section
+          Sub-Heading: Name
+          Text-Area: Short Description
+          Link: Read More (maybe use card)
+  Time:                                                      60 min
+
+  Bottom-Section
+    Background: School Color Palette
+    Color: White
+    Bottom-Section-Left
+      Copyright
+    Bottom-Section-Right
+      Text: Interested in Teaching
+    Time:                                                    20 min
+
+  Padding Time:                                              60 min
+
+  Total Time:                                        3 hours 45 min
